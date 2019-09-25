@@ -1,0 +1,12 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\bin\Debug\EntityVjezba.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\bin\Debug\EntityVjezba.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\bin\Debug\EntityVjezba.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\bin\Debug\EntityFramework.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\bin\Debug\EntityFramework.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\obj\Debug\EntityVjezba.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\obj\Debug\EntityVjezba.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\obj\Debug\EntityVjezba.csproj.CopyComplete
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\obj\Debug\EntityVjezba.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\EntityVjezba\EntityVjezba\obj\Debug\EntityVjezba.pdb
